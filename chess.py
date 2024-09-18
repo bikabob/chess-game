@@ -1,7 +1,9 @@
-print("Best chess game")
-print("This time")
-#sggdjgdj
-#wathoshindiye
-# bankai
-#pro
-# ijas is a villan
+import pygame
+
+
+pygame.init()
+screen = pygame.display.set_mode((700,700))
+coloumnSize = 700/8
+
+while True:
+    screen
